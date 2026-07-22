@@ -4,7 +4,7 @@ class Player(Turtle):
       def __init__(self, position):
 
           super().__init__()
-          self.shape("triangle")
+          self.shape ("triangle")
           self.color("white")
           self.setheading(90)
           self.penup()
