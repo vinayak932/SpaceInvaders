@@ -1,7 +1,7 @@
 import turtle
 from player import Player
 from enemy import Enemy
-from bullet import Bullet
+from bullet  import Bullet
 import time
 import random
 from scorecard import Scorecard
